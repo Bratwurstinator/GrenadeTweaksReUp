@@ -1,0 +1,10 @@
+F:\Steam\steamapps\common\RimWorld\Mods\Granata\AmogusGrenade\AmogusGrenade\bin\Debug\AmogusGrenade.dll
+F:\Steam\steamapps\common\RimWorld\Mods\Granata\AmogusGrenade\AmogusGrenade\bin\Debug\AmogusGrenade.pdb
+F:\Steam\steamapps\common\RimWorld\Mods\Granata\AmogusGrenade\AmogusGrenade\obj\Debug\AmogusGrenade.csprojAssemblyReference.cache
+F:\Steam\steamapps\common\RimWorld\Mods\Granata\AmogusGrenade\AmogusGrenade\obj\Debug\AmogusGrenade.dll
+F:\Steam\steamapps\common\RimWorld\Mods\Granata\AmogusGrenade\AmogusGrenade\obj\Debug\AmogusGrenade.pdb
+F:\Steam\steamapps\common\RimWorld\Mods\Granata\Assemblies\AmogusGrenade.dll
+F:\Steam\steamapps\common\RimWorld\Mods\Granata\Assemblies\AmogusGrenade.pdb
+F:\Steam\steamapps\common\RimWorld\Mods\Granata\Source\AmogusGrenade\AmogusGrenade\obj\Debug\AmogusGrenade.csprojAssemblyReference.cache
+F:\Steam\steamapps\common\RimWorld\Mods\Granata\Source\AmogusGrenade\AmogusGrenade\obj\Debug\AmogusGrenade.dll
+F:\Steam\steamapps\common\RimWorld\Mods\Granata\Source\AmogusGrenade\AmogusGrenade\obj\Debug\AmogusGrenade.pdb
